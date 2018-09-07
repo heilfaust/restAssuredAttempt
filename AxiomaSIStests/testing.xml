@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="testingSuite">
+
+
+    <test name="Regression1">
+        <packages>
+            <package name="com.SIS.test.tests" />
+        </packages>
+    </test>
+
+
+</suite>
